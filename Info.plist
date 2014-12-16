@@ -7,7 +7,7 @@
 	<key>Builder Version</key>
 	<string>10600.2.5</string>
 	<key>CFBundleDisplayName</key>
-	<string>IPv4-Literal-Address</string>
+	<string>IPv4 Literal URL Translator</string>
 	<key>CFBundleIdentifier</key>
 	<string>org.kshima.ipv4-literal-address</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -29,7 +29,7 @@
 		<dict/>
 	</dict>
 	<key>Description</key>
-	<string>Replace IPv4 literal addresses with DNS names</string>
+	<string>Translate an IPv4 literal address in a URL to a predefined name</string>
 	<key>DeveloperIdentifier</key>
 	<string>88DGGCVYQ7</string>
 	<key>ExtensionInfoDictionaryVersion</key>
