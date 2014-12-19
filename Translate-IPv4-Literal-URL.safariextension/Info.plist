@@ -15,7 +15,7 @@
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
-	<string>1.1</string>
+	<string>1.1.1</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Database Quota</key>
@@ -44,5 +44,7 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Website</key>
+	<string>https://github.com/keiichishima/Translate-IPv4-Literal-URL</string>
 </dict>
 </plist>
